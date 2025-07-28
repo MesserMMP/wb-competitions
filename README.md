@@ -1,1 +1,3 @@
-# wb-competitions
+# Wildberries Kaggle Practice
+
+Репозиторий содержит два ноутбука, созданные в рамках практики по задачам анализа комментариев от Wildberries на платформе Kaggle.
